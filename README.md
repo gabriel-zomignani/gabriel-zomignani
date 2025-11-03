@@ -3,7 +3,6 @@
 <h1 align="center"> Gabriel Zomignani</h1>
 <p align="center">
   <b>BSc in Software Development @ Munster Technological University (MTU), Cork — Ireland</b><br/>
-  Passionate about <b>Data Engineering</b>, <b>ETL pipelines</b>, and <b>APIs with FastAPI</b>.
 </p>
 
 ---
