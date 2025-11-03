@@ -12,10 +12,6 @@
 - Hands-on experience with **Python**, **Pandas**, **SQL (SQLite/PostgreSQL)**, **FastAPI**, **Docker**, and **GitHub Actions**.
 - I enjoy building clean, reproducible data pipelines and well-structured applications.
 
-## 🧰 Tech Stack
-**Languages:** Python, SQL, JavaScript (React)  
-**Frameworks & Tools:** Pandas, FastAPI, PostgreSQL, SQLite, Docker, GitHub Actions, React + Vite + TailwindCSS
-
 ## 🚀 Featured Project
 - **[Cyber Incidents Explorer](https://github.com/gabriel-zomignani/cyber-incidents-explorer)** —  
   End-to-end ETL & API project for exploring global cybersecurity incidents (2014–2025).  
@@ -28,15 +24,7 @@
 - Automated testing and CI/CD pipelines  
 - Deploying FastAPI and React apps (Railway / Fly.io)
 
-## 💡 Interests
-Data analytics, automation, cloud integration, and software architecture.
-
 ## 📫 Get in Touch
 - **Email:** gabrielz.zomig@gmail.com 
 - **LinkedIn:** [linkedin.com/in/gabriel-zomignani](https://linkedin.com/in/gabriel-zomignani)  
 - **Location:** Cork, Ireland  
-
----
-
-<sub>⭐ I like clean code, clear documentation, and learning by building.  
-If you find my work interesting, feel free to star a repo or connect on LinkedIn!</sub>
