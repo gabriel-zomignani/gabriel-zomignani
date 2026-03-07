@@ -14,7 +14,7 @@
 
 ## 🚀 Featured Project
 - **[Cyber Incidents Explorer](https://github.com/gabriel-zomignani/cyber-incidents-explorer)** —  
-  End-to-end ETL & API project for exploring global cybersecurity incidents (2014–2025).  
+  End-to-end ETL & API project for exploring global cybersecurity incidents (2014–2024).  
 
 > Check my pinned repositories below for more projects.
 
